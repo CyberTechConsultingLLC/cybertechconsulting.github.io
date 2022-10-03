@@ -9,7 +9,7 @@
     }
   },
   {
-    "title": "Certified Accountants",
+    "title": "Microsoft Certified Consultant",
     "description": "All members of our team are certified accountants.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Microsoft Partner",
+    "description": "",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
