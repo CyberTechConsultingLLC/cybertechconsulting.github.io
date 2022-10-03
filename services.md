@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Services that grow with your business
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Business and Technology changes are challenging to navigate. There's a reason that the vast majority of implementations fail to achieve desired results. Our strategy places the business outcomes and end-user at the forefront, enabling a rapid culture shift and reducing the pain that comes with change.
