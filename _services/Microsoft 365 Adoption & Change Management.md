@@ -1,7 +1,7 @@
 ---
-title: "Adoption & Change Management"
+title: "Microsoft 365 Adoption & Change Management"
 date: 2019-02-28T15:15:34+10:00
-weight: 1
+weight: 3
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
