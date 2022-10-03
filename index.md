@@ -9,7 +9,8 @@ show_call_box: true
 ---
 
 # CyberTech Consulting
-### Microsoft 365 Consulting & Change Management
+### Microsoft 365 Consulting
+### Adoption & Change Management
 
 We provide Consulting & Advisory services for organizations on or moving to the Microsoft cloud. 
 
