@@ -8,8 +8,8 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# CyberTech Consulting
-## Microsoft 365 Consulting & Change Management
+## CyberTech Consulting
+### Microsoft 365 Consulting & Change Management
 
 We provide Consulting & Advisory services for organizations on or moving to the Microsoft cloud. 
 
