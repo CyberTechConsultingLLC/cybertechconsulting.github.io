@@ -1,6 +1,6 @@
 ---
 title: Hire Me
-layout: teams
+layout: default
 description: Hire Me
 permalink: "/hire-me/"
 intro_image_absolute: true
