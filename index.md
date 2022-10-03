@@ -10,8 +10,8 @@ show_call_box: true
 
 # CyberTech Consulting
 ### Microsoft 365 Consulting
-### Adoption & Change Management
 
-We provide Consulting & Advisory services for organizations on or moving to the Microsoft cloud. 
 
-Turnkey support of Microsoft Teams, Azure, and Power Platform including assessments, migrations, rollouts, communications, and continuous adoption activities. 
+We provide Consulting, Advisory, and Support services for organizations on or moving to the Microsoft cloud. 
+
+This includes turnkey implementation support of Microsoft 365, Azure, and Power Platform including assessments, migrations, rollouts, communications, and continuous adoption activities. 
