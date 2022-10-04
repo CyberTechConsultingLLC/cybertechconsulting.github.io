@@ -1,6 +1,6 @@
 ---
 title: Hire Me
-layout: default
+layout: page
 description: Hire Me
 permalink: "/hire-me/"
 intro_image_absolute: true
