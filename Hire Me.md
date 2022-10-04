@@ -4,6 +4,7 @@ layout: page
 description: Hire Me
 permalink: "/hire-me/"
 intro_image_absolute: true
+show_call_box: true
 intro_image_hide_on_mobile: false
 ---
 
@@ -18,6 +19,6 @@ My background and degree are in business, but I have been working with the Micro
 Ideal job titles include:
 - Microsoft 365 Consultant or Specialist
 - Change Management Consultant or Specialist
-- Microsoft Teams Administrator
-- Microsoft Power Platform Consultant
+- Microsoft 365 Administrator
+- Customer Success Engineer
 
