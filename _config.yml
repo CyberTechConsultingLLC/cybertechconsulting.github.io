@@ -1,6 +1,7 @@
 baseurl: '/'
 permalink: pretty
 title: 'CyberTech Consulting LLC'
+google_analytics: YOUR_GOOGLE_ANALYTICS_TRACKING_CODE
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
